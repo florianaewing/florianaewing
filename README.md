@@ -18,8 +18,9 @@
 | Location | Period |
 |----------|--------|
 | Cafe Javasti Maple Leaf | August(2023) |
-| Herkimer Ravenna | August(2024),October(2024) |
+| Herkimer Ravenna | August(2024) |
+| Herkimer Ravenna | October(2024) |
 | Wedgwood Ale House | December2024) |
-| Cafe Javasti Wedgwood | September(2025*) |
+| Cafe Javasti Wedgwood | September(2025)* |
 
 
