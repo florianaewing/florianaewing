@@ -1,6 +1,5 @@
 # Florian Anthony Ewing
-## Student Computer and Data Scientist
-## North Seattle College
+## Student Computer and Data Scientist: North Seattle College
 
 ### Tech Stack
 - Languages: JavaScript, Python, Java
