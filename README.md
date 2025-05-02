@@ -12,13 +12,14 @@
 - Traditional Art: Fine Art, Ceramics, Panels, Canvas, Prints
 - Techniques: Acrylic Pigments, Inks, Aerosolized Paints, Graphite, Watercolors, 
 - Style: Abtract Representation
-- History of Exhibition: 
+- Website: 
+
+ ## History of Exhibition:
 | Location | Period |
 |----------|--------|
 | Cafe Javasti Maple Leaf | August(2023) |
 | Herkimer Ravenna | August(2024),October(2024) |
 | Wedgwood Ale House | December2024) |
 | Cafe Javasti Wedgwood | September(2025*) |
-- Website: 
 
 
