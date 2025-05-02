@@ -1,13 +1,14 @@
 # Florian Anthony Ewing
-
-## Junior student Data & Computer Scientist at North Seattle College
+## Junior student Data & Computer Scientist
 ## Visual Artist
-## Musician
 
-### 🛠️ Tech Stack
+### Tech Stack
 - Languages: JavaScript, Python, Java
 - Frontend: HTML, CSS
 - Databases: MySQL, MongoDB
-- Tools: Git, VSCode, LINUX
+- Tools: Git, VSCode, LINUX, 
 
-
+| Skill | Description |
+|-------|-------------|
+| 🌐 Frontend | HTML, CSS, React |
+| ⚙️ Backend | Node.js, Express |
