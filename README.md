@@ -8,8 +8,10 @@
 - Tools: Git, VSCode, JetBrains, LINUX
 
 ## Visual Artist
-### Style
-- Traditional Media: Fine Art, Ceramics, Panels, Canvas
-- Techniques: Acrylic Pigments, Inks, Aerosolized Paints, Graphite
+### Technique & Style
+- Traditional Art: Fine Art, Ceramics, Panels, Canvas
+- Techniques: Acrylic Pigments, Inks, Aerosolized Paints, Graphite, Watercolors
+- Style: Abtract Representation
+- Website: 
 
 
