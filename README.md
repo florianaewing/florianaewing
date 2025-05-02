@@ -10,8 +10,8 @@
 ## Visual Artist
 ### Technique & Style
 - Traditional Art: Fine Art, Ceramics, Panels, Canvas, Prints
-- Techniques: Acrylic Pigments, Inks, Aerosolized Paints, Graphite, Watercolors, 
-- Style: Abtract Representation
+- Techniques: Acrylic Pigments, Inks, Aerosolized Paints, Graphite, Watercolors
+- Style: Abtract Representation, Surrealism
 - Website: 
 
  ## History of Exhibition:
