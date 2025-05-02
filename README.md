@@ -1,14 +1,11 @@
 # Florian Anthony Ewing
-## Junior student Data & Computer Scientist
+## Student Computer and Data Scientist
 ## Visual Artist
-
-### Tech Stack
-- Languages: JavaScript, Python, Java
-- Frontend: HTML, CSS
-- Databases: MySQL, MongoDB
-- Tools: Git, VSCode, LINUX, 
 
 | Skill | Description |
 |-------|-------------|
-| 🌐 Frontend | HTML, CSS, React |
-| ⚙️ Backend | Node.js, Express |
+| Languages |Python, Java, Javascript |
+| Frontend |HTML, CSS |
+| Databases |MySQL, MongoDB |
+| Tools |Git, VSCode, LINUX|
+
