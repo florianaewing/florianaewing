@@ -7,6 +7,12 @@
 - Databases: MySQL, MongoDB
 - Tools: Git, VSCode, JetBrains, LINUX
 
+ ## Education:
+| University | Program |
+|------------|---------|
+| North Seattle College | AAS Application Development(2024) |
+| North Seattle College | BS Computer Science, Data Science(2026)* |
+
 ## Visual Artist
 ### Technique & Style
 - Traditional Art: Fine Art, Ceramics, Panels, Canvas, Prints
