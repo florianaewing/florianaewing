@@ -21,7 +21,7 @@
 - Website: 
 
  ## History of Exhibition:
-| Location | Period |
+| Location | Interval |
 |----------|--------|
 | Cafe Javasti Maple Leaf | August(2023) |
 | Herkimer Ravenna | August(2024) |
