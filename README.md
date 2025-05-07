@@ -1,4 +1,4 @@
-# Florian Anthony Ewing
+# Florian Ewing
 ## Student Computer Scientist, Data Scientist
 
 ### Tech Stack
