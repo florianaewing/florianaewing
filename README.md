@@ -2,10 +2,10 @@
 ## Student Computer Scientist, Data Scientist
 
 ### Tech Stack
-- Languages: JavaScript, Python, Java
+- Languages: JavaScript, Python, Java, R
 - Frontend: HTML, CSS
 - Databases: MySQL, MongoDB
-- Tools: Git, VSCode, JetBrains, LINUX
+- Tools: Git, VSCode, LINUX
 
  ## Education:
 | University | Program |
