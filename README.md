@@ -15,7 +15,7 @@
 
 ## Visual Artist
 ### Technique & Style
-- Traditional Art: Fine Art, Ceramics, Panels, Canvas, Prints
+- Fine Art, Ceramics, Panels, Canvas, Prints
 - Techniques: Acrylic Pigments, Inks, Aerosolized Paints, Graphite, Watercolors
 - Style: Abstract Expressionism
 - Website: 
