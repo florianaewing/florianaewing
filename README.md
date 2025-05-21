@@ -18,7 +18,7 @@
 - Fine Art, Ceramics, Panels, Canvas, Prints
 - Techniques: Acrylic Pigments, Inks, Aerosolized Paints, Graphite, Watercolors
 - Style: Abstract Expressionism
-- Website: 
+- Website: https://florianaewing.github.io
 
  ## History of Exhibition:
 | Location | Interval |
