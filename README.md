@@ -16,7 +16,7 @@
  ## Web Design:
 | Site  | Client | 
 |------------|---------|
-| https://goblin-tales.com | S. W. Thwaits, June - August 2026 |
+| https://goblin-tales.com | S. W. Thwaits, June - August 2025 |
 
 ## Visual Artist
 ### Technique & Style
