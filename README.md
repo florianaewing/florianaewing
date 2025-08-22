@@ -13,6 +13,11 @@
 | North Seattle College | AAS Application Development(2024) |
 | North Seattle College | BS Computer Science, Data Science(2026)* |
 
+ ## Web Design:
+| Site  | Client |
+|------------|---------|
+| goblin-tales.com | S. W. Thwaits |
+
 ## Visual Artist
 ### Technique & Style
 - Fine Art, Ceramics, Panels, Canvas, Prints
