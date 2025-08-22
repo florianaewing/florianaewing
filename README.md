@@ -16,7 +16,7 @@
  ## Web Design:
 | Site  | Client |
 |------------|---------|
-| goblin-tales.com | S. W. Thwaits |
+| https://goblin-tales.com | S. W. Thwaits |
 
 ## Visual Artist
 ### Technique & Style
