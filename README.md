@@ -14,9 +14,9 @@
 | North Seattle College | BS Computer Science, Data Science(2026)* |
 
  ## Web Design:
-| Site  | Client |
+| Site  | Client | 
 |------------|---------|
-| https://goblin-tales.com | S. W. Thwaits |
+| https://goblin-tales.com | S. W. Thwaits, June - August 2026 |
 
 ## Visual Artist
 ### Technique & Style
