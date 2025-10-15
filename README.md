@@ -5,7 +5,7 @@
 - Languages: JavaScript, Python, Java, R
 - Frontend: HTML, CSS, React, js.Node
 - Databases: MySQL, MongoDB, DynamoDB, Azure
-- Tools: Git, VSCode, LINUX
+- Tools: Git, VSCode, LINUX, Google coLab, Atlassian, TensorFlow, Keras, PyTorch
 
  ## Education:
 | University | Program |
