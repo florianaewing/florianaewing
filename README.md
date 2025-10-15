@@ -1,5 +1,6 @@
 # Florian Ewing
 ## Student Computer Scientist, Data Scientist
+## Machine Learning Engineering Intern
 
 ### Tech Stack
 - Languages: JavaScript, Python, Java, R
@@ -20,10 +21,9 @@
 
 ## Visual Artist
 ### Technique & Style
-- Fine Art, Ceramics, Panels, Canvas, Prints
-- Techniques: Acrylic Pigments, Inks, Aerosolized Paints, Graphite, Watercolors
+- Media: Canvas, Panels, Prints
+- Techniques: Acrylics, Inks, Aerosolized Paints
 - Style: Abstract Expressionism
-- Website: https://florianaewing.github.io
 
  ## History of Exhibition:
 | Location | Interval |
