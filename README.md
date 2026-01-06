@@ -5,7 +5,7 @@
 ### Tech Stack
 - Languages: JavaScript, Python, Java, R
 - Frontend: HTML, CSS, React, js.Node
-- Databases: MySQL, MongoDB, DynamoDB, Azure
+- Databases: MySQL, AWS
 - Tools: Git, VSCode, LINUX, Google coLab, Atlassian, TensorFlow, Keras, PyTorch, MidJourney, ffmpeg
 
  ## Education:
